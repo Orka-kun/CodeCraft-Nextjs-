@@ -17,6 +17,7 @@ const page = () => {
             <div className="mb-12">
               <h3 className="text-gray-800 text-4xl font-extrabold">Sign Up</h3>
               <p className="text-gray-800 text-sm mt-4 ">Already have an account? <Link href="/login" className="text-blue-600 font-semibold hover:underline ml-1 whitespace-nowrap">Login here</Link></p>
+              <p className="text-gray-800 text-sm mt-4 ">Go back to <Link href="#home" className="text-blue-600 font-semibold hover:underline ml-1 whitespace-nowrap">Home</Link></p>
             </div>
             <div className='pb-4'>
               <label className="text-gray-800 text-xs block mb-2">Full Name</label>
