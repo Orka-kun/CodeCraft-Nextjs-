@@ -702,7 +702,7 @@ Our New Courses
             <h1 className='text-3xl font-EBGaramond'>CodeCraft</h1>
           </div>
           <p className='text-base font-light max-w-64 '>
-          If you're seeking top-tier programming courses, this platform is your ultimate destination!</p>
+          If you are seeking top-tier programming courses, this platform is your ultimate destination!</p>
           <div className='flex gap-4'>
             <Image alt='' className=' max-h-8 max-w-8' src={fbIcon}/>
             <Image alt='' className=' max-h-8 max-w-8' src={yIcon}/>
